@@ -5,15 +5,16 @@
 ##### C109118216 許力勻
 ###### C109118216 許力勻
 
+---
 :smile: 🚴 
 
 ---
 
-![NKUST](logo.png "NKUST")
+![NKUST](LOGO.png "NKUST")
 
 ### To Do list
-- [x] 1st thing
-- [ ] 2nd thing
+- [v] 1st thing
+- [v] 2nd thing
 - [ ] 3rd thing
 - [ ] 4th thing
 
